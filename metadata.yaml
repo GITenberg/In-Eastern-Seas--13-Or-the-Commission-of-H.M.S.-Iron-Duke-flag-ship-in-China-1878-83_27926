@@ -1,0 +1,27 @@
+_repo: In-Eastern-Seas--13-Or-the-Commission-of-H.M.S.-Iron-Duke-flag-ship-in-China-1878-83_27926
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Smith, J. J.
+    gutenberg_agent_id: '33019'
+    url: http://www.gutenberg.org/2009/agents/33019
+description: ''
+gutenberg_issued: '2009-01-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27926'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DS'
+- !lcsh 'Iron Duke (Ship)'
+- !lcsh 'Voyages and travels'
+- !lcc 'G'
+title: "In Eastern Seas\r\nOr, the Commission of H.M.S. 'Iron Duke,' flag-ship in\
+  \ China, 1878-83"
+url: http://www.gutenberg.org/ebooks/27926
