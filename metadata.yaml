@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '33019'
     url: http://www.gutenberg.org/2009/agents/33019
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27926#In-Eastern-Seas--13-Or-the-Commission-of-H.M.S.-Iron-Duke-flag-ship-in-China-1878-83
 gutenberg_issued: '2009-01-29'
 gutenberg_type: Text
 identifiers:
